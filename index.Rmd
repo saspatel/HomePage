@@ -1,0 +1,44 @@
+---
+title: "Sahil S. Patel"
+image: "jpgs/sahil.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sahil-patel-3b879b198/"
+  - label: GitHub
+    url: "https://github.com/saspatel"
+  - label: Email
+    url: "mailto:sas.patel@mail.utoronto.ca"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Thanks for wanting to get to know me a bit better! I am a student at the University of Toronto (St. George campus) studying the theory of statistics and computer science. I would love to work in academia or financial technology when I'm older, however the world of statistics is so incredibly diverse that I'm not sure exactly what I want to do! A quick synopsis of my work life is below, but check out my CV, blog posts, and more on my main website!
+
+## Education
+
+**University of Toronto, St. George** | Toronto, Ontario
+
+Specializing in the Theory and Methods of Statistics | September 2020 - Present
+
+Minoring in Computer Science | September 2020 - Present
+
+## Experience
+
+**PredictNow.ai** | Consultant/Intern | April 2021 - Present
+
+**Goldfinch STA** | Intern | November 2017 - August 2019 & May 2021 - Present
+
+**Vision Martial Arts** | Assistant Instructor | November 2017 - October 2020
+
+## Personal Projects
+
+**00100100** | Developer/Programmer | May 2021 - Present
+
+**R6S Talent League** | North American Director | October 2019 - January 2021
+
+**R6S Premier Play** | Founder | June 2016 - December 2019
+
+
+
