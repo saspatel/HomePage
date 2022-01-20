@@ -7,16 +7,16 @@ links:
   - label: GitHub
     url: "https://github.com/saspatel"
   - label: Email
-    url: "mailto:sas.patel@mail.utoronto.ca"
-  - label: CV (OOD)
-    url: "pdfs/SPatelResume.pdf"
+    url: "mailto:saspatel99@gmail.com"
+  - label: Resume
+    url: "pdfs/UpdatedResume.pdf"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Thanks for wanting to get to know me a bit better! I am a student at the University of Toronto (St. George campus) hopefully going to be studying the theory of statistics and computer science. I would love to work in academia or financial technology when I'm older, however the world of statistics is so incredibly diverse that I'm not sure exactly what I want to do! A quick synopsis of my work life is below, but check out my CV, blog posts, and more on my main website!
+Thanks for wanting to get to know me a bit better! I am a third year student at the University of Toronto (St. George campus) specializing in statistics and minoring in both math and computer science. I've recently grown to like machine learning and the statistics behind the models. Furthermore, I've had a deep interest in quantitative finance for about a year now, devoting a lot of time and energy into learning concepts used within the industry. My goal is to get my PhD in statistics, however I don't believe my future is set in stone, and I'm always willing to try new things. 
 
 ## Education
 
