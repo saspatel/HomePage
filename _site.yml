@@ -1,0 +1,7 @@
+name: "sahilwebsite"
+title: "Home"
+navbar:
+  right:
+    - text: "CV"
+      href: pdfs/FinalizedResume.pdf
+
