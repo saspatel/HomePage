@@ -1,47 +1,31 @@
 ---
-title: "Sahil S. Patel"
+title: "Sahil Patel"
 image: "jpgs/sahil.jpg"
 site: distill::distill_website
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/sahil-patel-3b879b198/"
-  - label: GitHub
-    url: "https://github.com/saspatel"
-  - label: Email
-    url: "mailto:saspatel99@gmail.com"
+    url: "https://linkedin.com/saspatel"
   - label: Resume
     url: "pdfs/FinalizedResume.pdf"
+  - label: Email
+    url: "mailto:saspatel99@gmail.com"
 output:
   postcards::trestles
 ---
- 
 ## Bio
 
-Thanks for wanting to get to know me a bit better! I am a third year student at the University of Toronto (St. George campus) specializing in statistics and minoring in both math and computer science. I've recently grown to like machine learning and the statistics behind the models. Furthermore, I've had a deep interest in quantitative finance for about a year now, devoting a lot of time and energy into learning concepts used within the industry. My goal is to get my PhD in statistics, however I don't believe my future is set in stone, and I'm always willing to try new things. 
+I'm an undergraduate student currently specializing in statistics. I've recently been interested in using my knowledge of statistics in the public health space. Specifically, I hope to work in the pharmaceutical trial process or aid in the discovery of new technologies that can either diagnose or treat diseases. My goal is to eventually go to graduate school to pursue my PhD. 
+
+For an extensive look into the current roles that I hold, check out my experience tab, and for a quick overview of all my positions that I've held, check out my resume.
 
 ## Education
 
-**University of Toronto, St. George** | Toronto, Ontario
+**University of Toronto St. George** | Toronto, Ontario
 
-(Hopefully) Specializing in the Theory and Methods of Statistics | September 2020 - Present
+* Statistics Specialist and Mathematics Minor | September 2020 - (tentative) April 2023
 
-(Hopefully) Minoring in Computer Science | September 2020 - Present
+## Current Occupation(s)
 
-## Experience
+**Predictnow.ai** | Feature Engineer | April 2021 - Present
 
-**PredictNow.ai** | Consultant/Intern | April 2021 - Present
-
-**Goldfinch STA** | Intern | November 2017 - August 2019 & May 2021 - Present
-
-**Vision Martial Arts** | Assistant Instructor | November 2017 - October 2020
-
-## Personal Projects
-
-**00100100** | Developer/Programmer | May 2021 - Present
-
-**R6S Talent League** | North American Director | October 2019 - January 2021
-
-**R6S Premier Play** | Founder | June 2016 - December 2019
-
-
-
+**00100100 Factory** | Project Manager and Developer | March 2021 - Present

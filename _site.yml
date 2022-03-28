@@ -1,7 +1,19 @@
 name: "sahilwebsite"
-title: "Home"
+title: "Sahil Patel"
+description: |
+  Sahil Patel
+output_dir: "docs"
 navbar:
   right:
-    - text: "CV"
+    - text: "Home"
+      href: index.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Projects"
+      menu:
+        - text: "Research"
+          href: research.html
+    - text: "Resume"
       href: pdfs/FinalizedResume.pdf
 
+output: distill::distill_article

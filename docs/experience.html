@@ -87,29 +87,29 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>Sahil'sWebsite</title>
+  <title>Sahil Patel: Work Experience</title>
 
-  <meta property="description" itemprop="description" content="Welcome to the website. I hope you enjoy it!"/>
+  <meta property="description" itemprop="description" content="Some details about my various work roles over the years!"/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Sahil&#39;sWebsite"/>
+  <meta property="og:title" content="Sahil Patel: Work Experience"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="Welcome to the website. I hope you enjoy it!"/>
+  <meta property="og:description" content="Some details about my various work roles over the years!"/>
   <meta property="og:locale" content="en_US"/>
-  <meta property="og:site_name" content="Sahil&#39;sWebsite"/>
+  <meta property="og:site_name" content="Sahil Patel"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Sahil&#39;sWebsite"/>
-  <meta property="twitter:description" content="Welcome to the website. I hope you enjoy it!"/>
+  <meta property="twitter:title" content="Sahil Patel: Work Experience"/>
+  <meta property="twitter:description" content="Some details about my various work roles over the years!"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["Sahil'sWebsite"]},{"type":"character","attributes":{},"value":["Welcome to the website. I hope you enjoy it!\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["Work Experience"]},{"type":"character","attributes":{},"value":["Some details about my various work roles over the years!\n"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[3]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2057,7 +2057,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Sahil'sWebsite","description":"Welcome to the website. I hope you enjoy it!","authors":[]}
+{"title":"Work Experience","description":"Some details about my various work roles over the years!","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2065,11 +2065,22 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
-<a href="index.html" class="title">Sahil'sWebsite</a>
+<a href="index.html" class="title">Sahil Patel</a>
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
-<a href="about.html">About</a>
+<a href="experience.html">Experience</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Projects
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="research.html">Research</a>
+</div>
+</div>
+<a href="pdfs/FinalizedResume.pdf">Resume</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2079,14 +2090,29 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Sahil’sWebsite</h1>
+<h1>Work Experience</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>Welcome to the website. I hope you enjoy it!</p></p>
+<p><p>Some details about my various work roles over the years!</p></p>
 </div>
 
 
 <div class="d-article">
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#predictnow.ai">Predictnow.ai</a></li>
+<li><a href="#factory">00100100 Factory</a></li>
+</ul>
+</nav>
+</div>
+<h2 id="predictnow.ai">Predictnow.ai</h2>
+<p>Consultant (04/2021 - )</p>
+<p>As a feature engineer at <a href="https://predictnow.ai">Predictnow.ai</a>, I was responsible for developing and implementing visuals that would allow people to understand the information from the machine learning model powering the website. The visualizations presented averaged SHAP values (if you don’t know what those are, <a href="https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30">this</a> is a good intro) across each cross validation fold. Furthermore, as a feature engineer I read and research existing financial methods and implement my own statistical analysis to determine whether new relevant features can be derived. Working at Predictnow.ai has also afforded me the opportunity to start learning about the industry from the resources created by <a href="https://www.epchan.com/">Dr. Chan</a>. These resources have provided me a great foundation of skills within the field of quantitative finance that I hope to apply in the future.</p>
+<h2 id="factory">00100100 Factory</h2>
+<p>Developer (03/2021 - )</p>
+<p>As a developer at 00100100, I am learning invaluable skills about the field of quantitative finance. I have lead the development of our flagship trading bot now managing $500,000+ in our user’s assets. Currently, the goal is to incorporate then provide users with access to the bots to use. The bots run a simple strategy focused on exploiting the volatility of cryptocurrencies on the Kraken exchange.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

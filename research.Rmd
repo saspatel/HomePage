@@ -1,0 +1,30 @@
+---
+title: "Research Projects"
+description: |
+  Below are some projects that I've completed as a part of various courses.
+
+output:
+    distill::distill_article:
+        toc: true
+        toc_depth: 3
+---
+## Predicting the 2025 Canadian Federal Election
+[pdf](Projects/Assignment3.pdf)
+
+Coauthored with: [Johnson Vo](https://www.linkedin.com/in/johnson-vo-9b8735203/?originalSubdomain=ca), [Vincent Chu](https://vincentcchu.github.io/), and Zhenning Guam
+
+"Using two datasets, we’ve developed a method under a multilevel regression with post-stratification (MRP) approach in order to answer the question of which party will be the most likely to win the 2025 Canadian federal election." As a result of this data being gathered years ahead of the election, the same analysis on more recent data is the next step.
+
+## Toronto Delay Subway Analysis
+[pdf](Projects/A2FinalStats.pdf)
+
+"So how do we decide where the subway system might need revisions? Given the complexity of the subway system, its believed the delays are inevitable, however any underlying patters in the subway delay, might indicate that there are factors affecting the delay that could be controlled." 
+
+## Modeling Short Term Insider Trades
+[Research Proposal](Projects/302Proposal.pdf) - [Methodology Flow Chart](Projects/LinRegFlowChart.pdf) - [Analysis](Projects/302FinalPaper.pdf)
+
+This project was designed to attempt to model short changes in a stocks price after a prominent member of that company bought or sold shares of that stock. However, due to the nature of the project, a linear regression was a requirement and it ended up resulting in a poorly fitting model. As a result, no conclusion could be formed about the use of the used variables in developing a reliable trading strategy.
+
+
+
+
