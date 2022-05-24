@@ -1,17 +1,22 @@
 ---
 title: "Work Experience"
 description: |
-  Some details about my various work roles over the years!
+  Some details about my current jobs!
 output:
     distill::distill_article:
         toc: true
         toc_depth: 3
 ---
 
+## Pardee Lab
+Undergraduate Researcher (05/2022 -)
+
+As an undergraduate researcher at the [Pardee Lab](https://www.pardeelab.org/), I am helping the lab break into the machine learning space. I have hosted small presentations on the uses of machine learning in chemical discoveries, and am currently working on using machine learning to better understand protein structure. As the only statistician on the team, I plan on primarily using generative models (GANs and VAEs) to help the lab accomplish their research goals.
+
 ## Predictnow.ai
 Consultant (04/2021 - )
 
-As a feature engineer at [Predictnow.ai](https://predictnow.ai), I was responsible for developing and implementing visuals that would allow people to understand the information from the machine learning model powering the website. The visualizations presented averaged SHAP values (if you don't know what those are, [this](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30) is a good intro) across each cross validation fold. Furthermore, as a feature engineer I read and research existing financial methods and implement my own statistical analysis to determine whether new relevant features can be derived. Working at Predictnow.ai has also afforded me the opportunity to start learning about the industry from the resources created by [Dr. Chan](https://www.epchan.com/). These resources have provided me a great foundation of skills within the field of quantitative finance that I hope to apply in the future.
+As a feature engineer at [Predictnow.ai](https://predictnow.ai), I was responsible for developing and implementing visuals that would allow people to understand the information from the machine learning model powering the website. The visualizations presented averaged SHAP values (if you don't know what those are, [this](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30) is a good intro) across each cross validation fold. Furthermore, as a feature engineer I read and research existing financial methods and implement my own statistical analysis to determine whether new relevant features can be derived. Working at Predictnow.ai has also afforded me the opportunity to start learning about the finance industry from the resources created by [Dr. Chan](https://www.epchan.com/). These resources have provided me a great foundation of skills within the field of quantitative finance that I hope to apply in the future.
 
 ## 00100100 Factory
 Developer (03/2021 - )

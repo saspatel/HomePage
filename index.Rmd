@@ -14,7 +14,7 @@ output:
 ---
 ## Bio
 
-I'm an undergraduate student currently specializing in statistics. I've recently been interested in using my knowledge of statistics in the public health space. Specifically, I hope to work in the pharmaceutical trial process or aid in the discovery of new technologies that can either diagnose or treat diseases. I have also had an interest in neuroscience given the complexity of the brain and how mathematics/statistics might be able to model it. Lastly, my goal is to eventually go to graduate school to pursue my PhD. 
+I'm an undergraduate student currently specializing in statistical theory and minoring in mathematics. I've recently been interested in using my knowledge of statistics in the public health space. Specifically, I hope to aid in the discovery of new technologies that can either diagnose or treat diseases. I am also interested in machine learning and its uses in the medical field. As a result, I'm currently using machine learning at the Pardee Lab to better understand protein structures.
 
 For an extensive look into the current roles that I hold, check out my experience tab, and for a quick overview of all my positions that I've held, check out my resume.
 
@@ -25,6 +25,8 @@ For an extensive look into the current roles that I hold, check out my experienc
 * Statistics Specialist and Mathematics Minor | September 2020 - (tentative) April 2023
 
 ## Current Occupation(s)
+
+**Pardee Lab** | Machine Learning Undergraduate Researcher | May 2022 - Present
 
 **Predictnow.ai** | Feature Engineer | April 2021 - Present
 
