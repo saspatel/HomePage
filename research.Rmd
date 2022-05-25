@@ -11,7 +11,7 @@ output:
 ## Multiclass ASMA vs Targeted PGD Attack in Image Segmentation
 [pdf](Projects/csc413project.pdf)
 
-Coauthored with: [Johnson Vo](https://www.linkedin.com/in/johnson-vo-9b8735203/?originalSubdomain=ca) and [Jiabao (Jimbo) Xie](https://www.linkedin.com/in/jimbo-xie/)
+Coauthored with: [Johnson Vo](https://www.linkedin.com/in/johnson-vo-9b8735203/?originalSubdomain=ca) and [Jimbo Xie](https://www.linkedin.com/in/jimbo-xie/)
 
 "Deep learning networks have demonstrated high performance in a large variety of applications, such as image classification, speech recognition, and natural language processing. However, there exists a major vulnerability exploited by the use of adversarial attacks. An adversarial attack imputes  images by altering the input image very slightly, making it nearly undetectable to the naked eye, but results in a very different classification by the network. This paper explores the projected gradient descent (PGD) attack and the Adaptive Mask Segmentation Attack (ASMA) on the image segmentation DeepLabV3 model using two types of architectures: MobileNetV3 and ResNet50, It was found that PGD was very consistent in changing the segmentation to be its target while the generalization of ASMA to a multiclass target was not as effective. The existence of such attack however puts all of image classification deep learning networks in danger of exploitation."
 
